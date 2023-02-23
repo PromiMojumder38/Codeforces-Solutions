@@ -1,3 +1,4 @@
+// pari na goo kisu
 #include<stdio.h>
 
 int main()
